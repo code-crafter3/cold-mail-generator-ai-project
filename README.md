@@ -87,7 +87,7 @@ You upload a portfolio with several projects. The app scrapes a job posting for 
 
 * **Streamlit** for UI
 * **LangChain** for prompt chaining
-* **FAISS** for vector search on portfolio data
+* **ChromaDB** for vector search on portfolio data
 * **Groq API** for LLM-based job parsing and email generation
 
 ---
