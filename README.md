@@ -40,7 +40,7 @@ This tool automates that cold email process:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/codecrafter3/cold-mail-generator-ai-project.git
+git clone https://github.com/code-crafter3/cold-mail-generator-ai-project.git
 cd cold-mail-generator-ai-project
 ```
 
